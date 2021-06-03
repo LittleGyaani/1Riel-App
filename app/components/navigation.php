@@ -192,14 +192,12 @@
                 </ul>
             </div>
             <br />
-            <center>
-                <h5><?= date('Y'); ?> &copy; <strong>1Riel</strong>. All rights reserved.</h5>
-                <div class="container">
-                    <a href="#" class="fw-700 text-dark">Terms</a>
-                    &bull; <a href="#" class="fw-700 text-dark">Privacy</a>
-                    &bull; <a href="#" class="fw-700 text-dark">Disclaimer</a>
-                </div>
-            </center>
+            
+            <h5><?= date('Y'); ?> &copy; <strong>1Riel</strong>. All rights reserved.</h5>
+            <a href="#" class="fw-500 text-dark">Terms</a>
+            &bull; <a href="#" class="fw-500 text-dark">Privacy</a>
+            &bull; <a href="#" class="fw-500 text-dark">Disclaimer</a>
+            
         </div>
     </div>
 </nav>
