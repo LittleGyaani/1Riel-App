@@ -92,7 +92,7 @@ if ($site_status === 'DEVELOPMENT') //If Site is still under development
         $base_URI = $server_protocol . 'localhost/1riel'; //Local Demo Website
         $router->setBasePath('/1riel'); //Local Demo Path
     } else {
-        $base_URI = $server_protocol . 'dev.1riel.com/'; //Our Demo Website or Preproduction URL
+        $base_URI = $server_protocol . '1riel.kslabs.online'; //Our Demo Website or Preproduction URL
         $router->setBasePath(''); //Our Demo Website or Preproduction URL
     }
 } else {
