@@ -220,9 +220,9 @@ include_once 'app/config/global.config.php'
                                 </div>
                                 <div class="card-body d-block p-0">
                                     <div class="row ps-2 pe-2">
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-10.jpg" data-lightbox="roadtrip"><img src="<?= $base_URI; ?>/app/assets/images/t-10.jpg" class="rounded-3 w-100" alt="image"></a></div>
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-11.jpg" data-lightbox="roadtrip"><img src="<?= $base_URI; ?>/app/assets/images/t-11.jpg" class="rounded-3 w-100" alt="image"></a></div>
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-12.jpg" data-lightbox="roadtrip" class="position-relative d-block"><img src="<?= $base_URI; ?>/app/assets/images/t-12.jpg" class="rounded-3 w-100" alt="image"><span class="img-count font-sm text-white ls-3 fw-600"><b>+2</b></span></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-10.jpg" data-lightbox="roadtrip"><img src="<?= $base_URI; ?>/app/assets/images/t-10.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-11.jpg" data-lightbox="roadtrip"><img src="<?= $base_URI; ?>/app/assets/images/t-11.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-12.jpg" data-lightbox="roadtrip" class="position-relative d-block"><img src="<?= $base_URI; ?>/app/assets/images/t-12.jpg" class="rounded-3 w-100" alt="image"><span class="img-count font-sm text-white ls-3 fw-600"><b>+2</b></span></a></div>
                                     </div>
                                 </div>
                                 <div class="card-body d-flex p-0 mt-3">
@@ -505,13 +505,13 @@ include_once 'app/config/global.config.php'
                                 </div>
                                 <div class="card-body d-block p-0 mb-3">
                                     <div class="row ps-2 pe-2">
-                                        <div class="col-xs-6 col-sm-6 p-1"><a href="images/t-36.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-21.jpg" class="rounded-3 w-100" alt="image"></a></div>
-                                        <div class="col-xs-6 col-sm-6 p-1"><a href="images/t-32.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-22.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-6 col-sm-6 p-1"><a href="app/assets/images/t-36.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-21.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-6 col-sm-6 p-1"><a href="app/assets/images/t-32.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-22.jpg" class="rounded-3 w-100" alt="image"></a></div>
                                     </div>
                                     <div class="row ps-2 pe-2">
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-33.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-23.jpg" class="rounded-3 w-100" alt="image"></a></div>
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-34.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-24.jpg" class="rounded-3 w-100" alt="image"></a></div>
-                                        <div class="col-xs-4 col-sm-4 p-1"><a href="images/t-35.jpg" data-lightbox="roadtri" class="position-relative d-block"><img src="<?= $base_URI; ?>/app/assets/images/t-25.jpg" class="rounded-3 w-100" alt="image"><span class="img-count font-sm text-white ls-3 fw-600"><b>+2</b></span></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-33.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-23.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-34.jpg" data-lightbox="roadtri"><img src="<?= $base_URI; ?>/app/assets/images/t-24.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-xs-4 col-sm-4 p-1"><a href="app/assets/images/t-35.jpg" data-lightbox="roadtri" class="position-relative d-block"><img src="<?= $base_URI; ?>/app/assets/images/t-25.jpg" class="rounded-3 w-100" alt="image"><span class="img-count font-sm text-white ls-3 fw-600"><b>+2</b></span></a></div>
                                     </div>
                                 </div>
                                 <div class="card-body d-flex p-0">
@@ -639,7 +639,7 @@ include_once 'app/config/global.config.php'
                                 </div>
                                 <div class="card-body d-block p-0 mb-3">
                                     <div class="row ps-2 pe-2">
-                                        <div class="col-sm-12 p-1"><a href="images/t-30.jpg" data-lightbox="roadtr"><img src="<?= $base_URI; ?>/app/assets/images/t-31.jpg" class="rounded-3 w-100" alt="image"></a></div>
+                                        <div class="col-sm-12 p-1"><a href="app/assets/images/t-30.jpg" data-lightbox="roadtr"><img src="<?= $base_URI; ?>/app/assets/images/t-31.jpg" class="rounded-3 w-100" alt="image"></a></div>
                                     </div>
                                 </div>
                                 <div class="card-body d-flex p-0">

@@ -2,7 +2,7 @@
 <div class="nav-header bg-white shadow-xs border-0">
     <div class="nav-top">
         <a href="index.html">
-            <img src="app/assets/images/logos/1riel-logo-l.png" height="auto" width="200" alt="1Riel Logo" />
+            <img src="app/assets/images/logos/1riel-logo-l.png" height="auto" width="165" alt="1Riel Logo" />
         </a>
         <a href="#" class="mob-menu ms-auto me-2 chat-active-btn"><i class="feather-message-circle text-grey-900 font-sm btn-round-md bg-greylight"></i></a>
         <a href="default-video.html" class="mob-menu me-2"><i class="feather-video text-grey-900 font-sm btn-round-md bg-greylight"></i></a>
