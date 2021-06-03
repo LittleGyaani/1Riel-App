@@ -191,6 +191,15 @@
                     <li><a href="default-message.html" class="nav-content-bttn open-font h-auto pt-2 pb-2"><i class="font-sm feather-message-square me-3 text-grey-500"></i><span>Chat</span><span class="circle-count bg-warning mt-0">23</span></a></li>
                 </ul>
             </div>
+            <br />
+            <center>
+                <h5><?= date('Y'); ?> &copy; <strong>1Riel</strong>. All rights reserved.</h5>
+                <div class="container">
+                    <a href="#" class="fw-700 text-dark">Terms</a>
+                    &bull; <a href="#" class="fw-700 text-dark">Privacy</a>
+                    &bull; <a href="#" class="fw-700 text-dark">Disclaimer</a>
+                </div>
+            </center>
         </div>
     </div>
 </nav>
